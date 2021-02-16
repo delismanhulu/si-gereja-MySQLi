@@ -1,3 +1,6 @@
+# Sistem Informasi Gereja Lengkap dengan source code dan database
+
+
 # WARNING
 
 - Aplikasi ini dilarang menjadikan konten anda di Youtube atau menjual secara  Komersial baik diperusahaan maupun Instansi Pemerintah.
