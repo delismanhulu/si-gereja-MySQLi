@@ -1,0 +1,13 @@
+project layanancoding.com
+
+
+Extra di htdocs
+lalu export database dengan nama yang sama
+lalu jalankan di google
+
+
+localhost/giki/admin (sesuaikan dengan nama folder yang kalian buat di htdocs)
+lalu login
+
+user : admin
+password : admin

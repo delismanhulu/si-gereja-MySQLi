@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule ^([a-zA-Z0-9_-]+)$ news_gereja.php?id=$1
+</IfModule>
+
+
